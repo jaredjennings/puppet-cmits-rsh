@@ -1,0 +1,12 @@
+{
+  "name": "jaredjennings/rsh",
+  "version": "0.1.0",
+  "author": "Jared Jennings",
+  "summary": "Provide the functionality of the rsh module from CMITS (boilerplate)",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jaredjennings/puppet-cmits-rsh",
+  "project_page": "https://github.com/jaredjennings/puppet-cmits-rsh",
+  "issues_url": "https://github.com/jaredjennings/puppet-cmits-rsh/issues",
+  "dependencies": []
+}
+
