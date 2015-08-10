@@ -16,5 +16,6 @@
 # \subsection{Disable rsh, rlogin, and rexec}
 
 class rsh::no {
-    include "rsh::no::${::osfamily}"
+    $lower_osfamily = downcase($::osfamily)
+    include "rsh::no::${lower_osfamily}"
 }
